@@ -5,5 +5,5 @@
 ### Easier to use date-time format of samples: YYYY NNN.hhhhhhh (year and decimal daynumber).
 ### Calibrations based on the FARIN2005-campaign and annual site visits with a travelling reference GUV instrument. http://onlinelibrary.wiley.com/doi/10.1029/2007JD009731/abstract
 ### Groups of station-instruments have participated in 6 QASUME-campaigns (2003, 2005, 2009, 2010, 2014 and 2019).
-### Interquartile range of UVI-measurements for the periode 2003-2019: +/-5 percent.
+### Interquartile range of UVI-measurements, relative to QASUME for the periode 2003-2019: +/-5 percent.
 
